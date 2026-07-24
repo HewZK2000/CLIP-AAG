@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated model artifacts and local datasets
+checkpoint/
+data/
+models/
+*.pth
+*.pt
+*.npz
