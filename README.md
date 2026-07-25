@@ -439,11 +439,9 @@ If this repository contributes to your work, please cite the manuscript:
             in Emotion Recognition with FEAr Dataset},
   author = {Hew, Zhong Ken and Wong, Lai-Kuan and Chan, Chee Seng},
   year   = {2026},
-  note   = {Preprint submitted to Elsevier}
+  note   = {Accepted at Signal Processing: Image Communication}
 }
 ```
-
-Replace the preprint entry with the final venue and DOI after publication.
 
 Please also cite the datasets you use:
 
