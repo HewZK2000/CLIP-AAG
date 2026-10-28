@@ -434,12 +434,13 @@ the output names.
 If this repository contributes to your work, please cite the manuscript:
 
 ```bibtex
-@misc{hew2026beyond,
-  title  = {Beyond Illusions of Competence: Revisiting Zero-Shot Learning
-            in Emotion Recognition with FEAr Dataset},
-  author = {Hew, Zhong Ken and Wong, Lai-Kuan and Chan, Chee Seng},
-  year   = {2026},
-  note   = {Accepted at Signal Processing: Image Communication}
+@article{HEW2026117658,
+title = {Beyond illusions of competence: Revisiting zero-shot learning in emotion recognition with FEAr dataset},
+journal = {Signal Processing: Image Communication},
+volume = {148},
+pages = {117658},
+year = {2026},
+author = {Zhong Ken Hew and Lai-Kuan Wong and Chee Seng Chan}
 }
 ```
 
